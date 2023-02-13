@@ -1,0 +1,11 @@
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\ecommerce-mvp-intro\ecommerce-mvp-intro\bin\Debug\ecommerce-mvp-intro.exe.config
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\ecommerce-mvp-intro\ecommerce-mvp-intro\bin\Debug\ecommerce-mvp-intro.exe
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\ecommerce-mvp-intro\ecommerce-mvp-intro\bin\Debug\ecommerce-mvp-intro.pdb
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\ecommerce-mvp-intro\ecommerce-mvp-intro\obj\Debug\ecommerce-mvp-intro.csproj.AssemblyReference.cache
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\ecommerce-mvp-intro\ecommerce-mvp-intro\obj\Debug\ecommerce-mvp-intro.csproj.SuggestedBindingRedirects.cache
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\ecommerce-mvp-intro\ecommerce-mvp-intro\obj\Debug\ecommerce_mvp_intro.Properties.Resources.resources
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\ecommerce-mvp-intro\ecommerce-mvp-intro\obj\Debug\ecommerce-mvp-intro.csproj.GenerateResource.cache
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\ecommerce-mvp-intro\ecommerce-mvp-intro\obj\Debug\ecommerce-mvp-intro.csproj.CoreCompileInputs.cache
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\ecommerce-mvp-intro\ecommerce-mvp-intro\obj\Debug\ecommerce-mvp-intro.exe
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\ecommerce-mvp-intro\ecommerce-mvp-intro\obj\Debug\ecommerce-mvp-intro.pdb
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\ecommerce-mvp-intro\ecommerce-mvp-intro\obj\Debug\csharp_oop_ecommerce_basic.Form1.resources
