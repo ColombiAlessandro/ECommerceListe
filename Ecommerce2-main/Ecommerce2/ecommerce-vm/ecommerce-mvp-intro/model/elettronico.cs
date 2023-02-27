@@ -13,6 +13,7 @@ namespace csharp_oop_ecommerce_basic.model
         public elettronico(string id, string name, string prod, string descr, float price, string codice_modello) : base(id, name, prod, descr, price)
         {
             this.codice_modello = codice_modello;
+
         }
         public elettronico(string id, string name, string prod, string descr, string codice_modello) : base(id, name, prod, descr)
         {

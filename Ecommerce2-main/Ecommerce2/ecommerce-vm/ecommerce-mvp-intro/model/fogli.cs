@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace csharp_oop_ecommerce_basic.model
+
 {
     public class fogli : Cartoleria
     {
